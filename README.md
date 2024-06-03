@@ -1,4 +1,4 @@
-![Screenshot%202024-05-28%20160546.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%202024-05-28%20160546.png) 
+![Screenshot%202024-05-28%20160546.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%25202024-05-28%2520160546.png) 
 
 <center>
     <h1>NEUROVOYAGER</h1>
