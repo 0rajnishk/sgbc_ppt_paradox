@@ -18,7 +18,7 @@ There are four parameters.
  - stain
  - age
 
-![Screenshot%202024-05-28%20165234.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%202024-05-28%2520165234.png)
+![Screenshot%202024-05-28%20165234.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%25202024-05-28%2520165234.png)
 
 
 ```python
