@@ -1,5 +1,22 @@
 ![Screenshot%202024-05-28%2520160546.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%25202024-05-28%2520160546.png) 
 
+
+# My Contribution to NeuroVoyager at the Sudha Gopalakrishnan Brain Centre, IIT Madras
+
+For the first three months of my internship at the Sudha Gopalakrishnan Brain Centre, I worked as a full-stack developer. During this period, I contributed to both the frontend and backend development of NeuroVoyager. I used Django for the backend and Angular for the frontend to create a seamless and efficient brain research platform.
+
+After my initial period, I transitioned to the AI/ML team. Here, I have been involved in implementing advanced features such as the Data Base Query Engine, NeuroGuardrails, and the Analytics Generator. These components are essential for interacting with our massive datasets, ensuring safe and relevant queries, and generating detailed analytics for various brain regions.
+
+It's been a rewarding experience working here, especially with the weekly guidance and support from NVIDIA, which has been invaluable in advancing our projects.
+
+## Event Presentation at IIT Madras Student Fest
+
+Recently, we had the opportunity to present our work on NeuroVoyager at the IIT Madras Student Fest. During this event, we showcased the various features of NeuroVoyager to the students, highlighting the innovative tools and technologies we have developed for brain research.
+
+We demonstrated how the platform facilitates high-resolution brain imaging, comprehensive data analysis, and advanced query handling. The response from the students was overwhelmingly positive, and it was a great chance to share our work and inspire future neuroscientists and engineers.
+
+---
+
 <center>
     <h1>NEUROVOYAGER</h1>
     <h2>Sudha Gopalakrishnan Brain Centre, IIT Madras </h2>
