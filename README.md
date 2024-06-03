@@ -1,4 +1,4 @@
-![Screenshot%202024-05-28%20160546.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%25202024-05-28%2520160546.png) 
+![Screenshot%202024-05-28%2520160546.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%25202024-05-28%2520160546.png) 
 
 <center>
     <h1>NEUROVOYAGER</h1>
@@ -18,7 +18,7 @@ There are four parameters.
  - stain
  - age
 
-![Screenshot%202024-05-28%20165234.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%202024-05-28%20165234.png)
+![Screenshot%202024-05-28%20165234.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%202024-05-28%2520165234.png)
 
 
 ```python
@@ -198,7 +198,7 @@ When the explorer asks about a brain region or asks question based on function o
 Analytics can also be generated for a particular region of a particular brain id
 </p>
 
-![Screenshot%202024-05-28%20190131.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%202024-05-28%20190131.png)
+![Screenshot%202024-05-28%20190131.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%202024-05-28%2520190131.png)
 
 
 ```python
