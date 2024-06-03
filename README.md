@@ -56,67 +56,13 @@ else:
     print(f"Request failed with status code: {response.status_code}")
 ```
 
+![dbquery](https://github.com/0rajnishk/sgbc_ppt_paradox/assets/96879734/98db91a1-8cf1-44eb-9c94-544e37086752)
 
 **Species**: Human fetus
 **Organ**: brain
 **Age Operator**: < 20 weeks
 
 **Images:**
-https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/94/NISL/B_94_FB5-SL_223-ST_NISL-SE_667_thumbnail.jpg
-https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/99/NISL/B_99_FTB6-SL_65-ST_NISL-SE_193_thumbnail.jpg
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/99/NISL/B_99_FTB6-SL_65-ST_NISL-SE_193_thumbnail.jpg" alt="Fetal brain 5" style="max-width:200px"><br><br>Name: Fetal brain 5<br>Biosample: 94<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/99/NISL/B_99_FTB6-SL_65-ST_NISL-SE_193_thumbnail.jpg" alt="Fetal test brain 6" style="max-width:200px"><br><br>Name: Fetal test brain 6<br>Biosample: 99<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/106/NISL/B_106_FB6-SL_105-ST_NISL-SE_313_thumbnail.jpg" alt="Fetal brain 6" style="max-width:200px"><br><br>Name: Fetal brain 6<br>Biosample: 106<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//apollo3/storageIIT/humanbrain/analytics/107/NISL/B_107_FB11-SL_336-ST_NISL-SE_1006_thumbnail.jpg" alt="Fetal brain 11" style="max-width:200px"><br><br>Name: Fetal brain 11<br>Biosample: 107<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/114/NISL/B_114_FTB7-SL_120-ST_NISL-SE_358_thumbnail.jpg" alt="fetal test brain 7" style="max-width:200px"><br><br>Name: fetal test brain 7<br>Biosample: 114<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/121/NISL/B_121_FB20-SL_173-ST_NISL-SE_517_thumbnail.jpg" alt="Fetal brain 20" style="max-width:200px"><br><br>Name: Fetal brain 20<br>Biosample: 121<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/122/NISL/B_122_FB23-SL_249-ST_NISL-SE_745_thumbnail.jpg" alt="Fetal brain 23" style="max-width:200px"><br><br>Name: Fetal brain 23<br>Biosample: 122<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//apollo3/storageIIT/humanbrain/analytics/123/NISL/B_123_FB21-SL_73-ST_NISL-SE_217_thumbnail.jpg" alt="Fetal brain 21" style="max-width:200px"><br><br>Name: Fetal brain 21<br>Biosample: 123<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/130/NISL/B_130_FB31-SL_274-ST_NISL-SE_820_thumbnail.jpg" alt="Fetal brain 31" style="max-width:200px"><br><br>Name: Fetal brain 31<br>Biosample: 130<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//apollo6/storageIIT/humanbrain/analytics/131/NISL/B_131_FB28-SL_305-ST_NISL-SE_913_thumbnail.jpg" alt="Fetal brain 28" style="max-width:200px"><br><br>Name: Fetal brain 28<br>Biosample: 131<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/141/NISL/B_141_FB40-SL_242-ST_NISL-SE_724_thumbnail.jpg" alt="Fetal brain 40" style="max-width:200px"><br><br>Name: Fetal brain 40<br>Biosample: 141<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/147/NISL/B_147_FB36-SL_166-ST_NISL-SE_496_thumbnail.jpg" alt="fetal  brain 36" style="max-width:200px"><br><br>Name: fetal  brain 36<br>Biosample: 147<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/149/NISL/B_149_FB45-SL_404-ST_NISL-SE_1210_thumbnail.jpg" alt="Fetal brain 45" style="max-width:200px"><br><br>Name: Fetal brain 45<br>Biosample: 149<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/150/NISL/B_150_FB43-SL_194-ST_NISL-SE_580_thumbnail.jpg" alt="fetal  brain 43 (M-2)" style="max-width:200px"><br><br>Name: fetal  brain 43 (M-2)<br>Biosample: 150<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/203/NISL/B_203_FB63-SL_160-ST_NISL-SE_478_thumbnail.jpg" alt="fetal brain 63" style="max-width:200px"><br><br>Name: fetal brain 63<br>Biosample: 203<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/210/NISL/B_210_FB68-SL_179-ST_NISL-SE_535_thumbnail.jpg" alt="fetal brain 68" style="max-width:200px"><br><br>Name: fetal brain 68<br>Biosample: 210<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/212/NISL/B_212_FB67-SL_306-ST_NISL-SE_916_thumbnail.jpg" alt="Fetal brain 67" style="max-width:200px"><br><br>Name: Fetal brain 67<br>Biosample: 212<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/222/NISL/B_222_FB74-SL_295-ST_NISL-SE_883_thumbnail.jpg" alt="Fetal brain 74" style="max-width:200px"><br><br>Name: Fetal brain 74<br>Biosample: 222<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//apollo6/storageIIT/humanbrain/analytics/223/NISL/B_223_FB72-SL_196-ST_NISL-SE_586_thumbnail.jpg" alt="Fetal brain 72" style="max-width:200px"><br><br>Name: Fetal brain 72<br>Biosample: 223<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/226/NISL/B_226_FB77-SL_208-ST_NISL-SE_622_thumbnail.jpg" alt="fetal brain 77" style="max-width:200px"><br><br>Name: fetal brain 77<br>Biosample: 226<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/228/NISL/B_228_FB84-SL_257-ST_NISL-SE_769_thumbnail.jpg" alt="fetal brain 84" style="max-width:200px"><br><br>Name: fetal brain 84<br>Biosample: 228<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//apollo6/storageIIT/humanbrain/analytics/258/NISL/B_258_FB120P-SL_201-ST_NISL-SE_601_thumbnail.jpg" alt="fetal brain 120" style="max-width:200px"><br><br>Name: fetal brain 120<br>Biosample: 258<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//apollo6/storageIIT/humanbrain/analytics/269/NISL/B_269_FB98-SL_161-ST_NISL-SE_481_thumbnail.jpg" alt="fetal brain 98" style="max-width:200px"><br><br>Name: fetal brain 98<br>Biosample: 269<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//apollo3/storageIIT/humanbrain/analytics/280/NISL/B_280_FB100-SL_321-ST_NISL-SE_961_thumbnail.jpg" alt="fetal brain 100" style="max-width:200px"><br><br>Name: fetal brain 100<br>Biosample: 280<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//apollo3/storageIIT/humanbrain/analytics/326/NISL/B_326_FB147-SL_279-ST_NISL-SE_835_thumbnail.jpg" alt="fetal brain 147" style="max-width:200px"><br><br>Name: fetal brain 147<br>Biosample: 326<br>
-
-<img src="https://apollo2.humanbrain.in/iipsrv//apollo3/storageIIT/humanbrain/analytics/329/NISL/B_329_FB153-SL_126-ST_NISL-SE_376-MR_1618_thumbnail.jpg" alt="fetal brain 153" style="max-width:200px"><br><br>Name: fetal brain 153<br>Biosample: 329<br>
-
-
 
 
 # ==========================================================
