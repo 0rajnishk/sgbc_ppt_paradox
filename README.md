@@ -222,7 +222,7 @@ tables_view = get_markdown(data_list, overall_area)
 Markdown(tables_view)
 ```
 
-    [1mANALYTICS GENERATOR[0m
+    ANALYTICS GENERATOR
     
     
     The Hippocampal formation is located in the medial temporal lobe and consists of the hippocampus, the dentate gyrus, and the subiculum. It is involved in the encoding, consolidation, and retrieval of memories. The hippocampus is particularly important for spatial memory and navigation, while the dentate gyrus is involved in pattern separation, which is the ability to distinguish between similar memories.
@@ -405,7 +405,7 @@ tables_view = get_markdown(data_list, overall_area)
 Markdown(tables_view)
 ```
 
-    [1mANALYTICS GENERATOR[0m
+    ANALYTICS GENERATOR
     
     
     Additionally, the Cingulate cortex is connected to other regions of the brain involved in attention, such as the prefrontal cortex and the parietal cortex. These connections allow for the coordination of attentional processes and the integration of information from different sources.
