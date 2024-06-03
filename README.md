@@ -62,8 +62,9 @@ else:
 **Age Operator**: < 20 weeks
 
 **Images:**
-
-<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/94/NISL/B_94_FB5-SL_223-ST_NISL-SE_667_thumbnail.jpg" alt="Fetal brain 5" style="max-width:200px"><br><br>Name: Fetal brain 5<br>Biosample: 94<br>
+https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/94/NISL/B_94_FB5-SL_223-ST_NISL-SE_667_thumbnail.jpg
+https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/99/NISL/B_99_FTB6-SL_65-ST_NISL-SE_193_thumbnail.jpg
+<img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/99/NISL/B_99_FTB6-SL_65-ST_NISL-SE_193_thumbnail.jpg" alt="Fetal brain 5" style="max-width:200px"><br><br>Name: Fetal brain 5<br>Biosample: 94<br>
 
 <img src="https://apollo2.humanbrain.in/iipsrv//data/storageIIT/humanbrain/analytics/99/NISL/B_99_FTB6-SL_65-ST_NISL-SE_193_thumbnail.jpg" alt="Fetal test brain 6" style="max-width:200px"><br><br>Name: Fetal test brain 6<br>Biosample: 99<br>
 
