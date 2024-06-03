@@ -168,7 +168,7 @@ tables_view = get_markdown(data_list, overall_area)
 Markdown(tables_view)
 ```
 
-    [1mANALYTICS GENERATOR[0m
+    ## ANALYTICS GENERATOR
     
     
     Damage to the cerebellum can result in symptoms such as ataxia (loss of coordination and balance), tremors, slurred speech, and difficulty with fine motor skills. Conditions that can affect the cerebellum include stroke, multiple sclerosis, tumors, and genetic disorders.
