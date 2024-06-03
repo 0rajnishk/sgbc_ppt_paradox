@@ -139,7 +139,7 @@ stream_text(guard_eval['msg'])
 When the explorer asks about a brain region or asks question based on function of the region, this feature returns the brain region name their area, perimeter and overall area it occupies for all the brains.
 </p>
 
-### ![Screenshot%202024-05-28%2520185431.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%202024-05-28%2520185431.png)
+### ![Screenshot%202024-05-28%2520185431.png](https://raw.githubusercontent.com/0rajnishk/sgbc_ppt_paradox/main/Screenshot%25202024-05-28%2520185431.png)
 
 <p>
 Analytics can also be generated for a particular region of a particular brain id
